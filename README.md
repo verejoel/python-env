@@ -1,5 +1,3 @@
-# Getting started with python dash
-
 ## Installation
 Guidance given for MacOS and Homebrew - install [homebrew](https://brew.sh/) if you
 don't already have it. For other systems, consult the installation guides for Pyenv and
